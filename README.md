@@ -45,3 +45,7 @@ Open the `firmware` folder as a project in **STM32CubeIDE** and build for STM32F
 ## Possible extensions
 
 Vehicle speed tracking, a more compact MCU/PCB, accident detection with a vibration sensor, and pattern-based alerts from location history.
+
+## License
+
+MIT - see [LICENSE](LICENSE). Third-party code (e.g. ST HAL/CMSIS drivers, libraries) keeps its own license.
