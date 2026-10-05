@@ -49,3 +49,7 @@ Vehicle speed tracking, a more compact MCU/PCB, accident detection with a vibrat
 ## License
 
 MIT - see [LICENSE](LICENSE). Third-party code (e.g. ST HAL/CMSIS drivers, libraries) keeps its own license.
+
+## Author
+
+Pratik Sukare - [LinkedIn](https://www.linkedin.com/in/pratiksukare) | pratiksukare235@gmail.com
